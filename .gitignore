@@ -1,0 +1,8 @@
+# Fetched by fetch/*.sh, never committed
+/wa8lmf/
+/aprs/wa8lmf.*
+/aprs/Ham-APRS-FAP-1.21*
+/pocsag/src/sigid_*
+/pocsag/sigid_*
+*.part
+.DS_Store

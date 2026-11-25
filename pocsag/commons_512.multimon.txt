@@ -1,0 +1,1 @@
+POCSAG512: Address:  273040  Function: 3  Alpha:   512 B SIDE ZZZZZZ
